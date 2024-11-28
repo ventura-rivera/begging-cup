@@ -1,2 +1,8 @@
 fastapi
 uvicorn
+python-multipart
+argon2-cffi
+sqlalchemy
+psycopg2
+pydantic-settings
+jinja2
